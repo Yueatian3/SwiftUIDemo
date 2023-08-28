@@ -14,6 +14,20 @@
 		C37CD6552A6630A3004FAB4A /* SwiftUIDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37CD6542A6630A3004FAB4A /* SwiftUIDemoTests.swift */; };
 		C37CD65F2A6630A3004FAB4A /* SwiftUIDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37CD65E2A6630A3004FAB4A /* SwiftUIDemoUITests.swift */; };
 		C37CD6612A6630A3004FAB4A /* SwiftUIDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37CD6602A6630A3004FAB4A /* SwiftUIDemoUITestsLaunchTests.swift */; };
+		C37CD6702A664405004FAB4A /* Demo_ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37CD66F2A664405004FAB4A /* Demo_ImageView.swift */; };
+		C37CD6722A668197004FAB4A /* Demo_StackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37CD6712A668197004FAB4A /* Demo_StackView.swift */; };
+		C37E10D12A7CABCD00978510 /* Demo_ListView02.swift in Sources */ = {isa = PBXBuildFile; fileRef = C37E10D02A7CABCD00978510 /* Demo_ListView02.swift */; };
+		C3BFB5AF2A9C9EFF0033FA23 /* Demo_UIGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BFB5AE2A9C9EFF0033FA23 /* Demo_UIGestures.swift */; };
+		C3BFB5B12A9C9F760033FA23 /* Demo_Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3BFB5B02A9C9F760033FA23 /* Demo_Text.swift */; };
+		C3C2DF722A669450009E8A48 /* Demo_ScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF712A669450009E8A48 /* Demo_ScrollView.swift */; };
+		C3C2DF742A66989B009E8A48 /* Demo_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF732A66989B009E8A48 /* Demo_Button.swift */; };
+		C3C2DF762A67864B009E8A48 /* Demo_Gradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF752A67864B009E8A48 /* Demo_Gradient.swift */; };
+		C3C2DF782A678E82009E8A48 /* Demo_State.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF772A678E82009E8A48 /* Demo_State.swift */; };
+		C3C2DF7A2A6791B6009E8A48 /* Demo_Path.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF792A6791B6009E8A48 /* Demo_Path.swift */; };
+		C3C2DF7C2A67BD4A009E8A48 /* Demo_ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF7B2A67BD4A009E8A48 /* Demo_ListView.swift */; };
+		C3C2DF802A68C29A009E8A48 /* Demo_NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF7F2A68C29A009E8A48 /* Demo_NavigationView.swift */; };
+		C3C2DF822A68D9DE009E8A48 /* Demo_ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF812A68D9DE009E8A48 /* Demo_ModalView.swift */; };
+		C3C2DF842A6A31F9009E8A48 /* Demo_FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C2DF832A6A31F9009E8A48 /* Demo_FormView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,20 @@
 		C37CD65A2A6630A3004FAB4A /* SwiftUIDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C37CD65E2A6630A3004FAB4A /* SwiftUIDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoUITests.swift; sourceTree = "<group>"; };
 		C37CD6602A6630A3004FAB4A /* SwiftUIDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C37CD66F2A664405004FAB4A /* Demo_ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ImageView.swift; sourceTree = "<group>"; };
+		C37CD6712A668197004FAB4A /* Demo_StackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_StackView.swift; sourceTree = "<group>"; };
+		C37E10D02A7CABCD00978510 /* Demo_ListView02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ListView02.swift; sourceTree = "<group>"; };
+		C3BFB5AE2A9C9EFF0033FA23 /* Demo_UIGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_UIGestures.swift; sourceTree = "<group>"; };
+		C3BFB5B02A9C9F760033FA23 /* Demo_Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_Text.swift; sourceTree = "<group>"; };
+		C3C2DF712A669450009E8A48 /* Demo_ScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ScrollView.swift; sourceTree = "<group>"; };
+		C3C2DF732A66989B009E8A48 /* Demo_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_Button.swift; sourceTree = "<group>"; };
+		C3C2DF752A67864B009E8A48 /* Demo_Gradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_Gradient.swift; sourceTree = "<group>"; };
+		C3C2DF772A678E82009E8A48 /* Demo_State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_State.swift; sourceTree = "<group>"; };
+		C3C2DF792A6791B6009E8A48 /* Demo_Path.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_Path.swift; sourceTree = "<group>"; };
+		C3C2DF7B2A67BD4A009E8A48 /* Demo_ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ListView.swift; sourceTree = "<group>"; };
+		C3C2DF7F2A68C29A009E8A48 /* Demo_NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_NavigationView.swift; sourceTree = "<group>"; };
+		C3C2DF812A68D9DE009E8A48 /* Demo_ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_ModalView.swift; sourceTree = "<group>"; };
+		C3C2DF832A6A31F9009E8A48 /* Demo_FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo_FormView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +124,20 @@
 			children = (
 				C37CD6432A6630A1004FAB4A /* SwiftUIDemoApp.swift */,
 				C37CD6452A6630A1004FAB4A /* ContentView.swift */,
+				C3BFB5B02A9C9F760033FA23 /* Demo_Text.swift */,
+				C37CD66F2A664405004FAB4A /* Demo_ImageView.swift */,
+				C37CD6712A668197004FAB4A /* Demo_StackView.swift */,
+				C3C2DF712A669450009E8A48 /* Demo_ScrollView.swift */,
+				C3C2DF732A66989B009E8A48 /* Demo_Button.swift */,
+				C3C2DF752A67864B009E8A48 /* Demo_Gradient.swift */,
+				C3C2DF772A678E82009E8A48 /* Demo_State.swift */,
+				C3C2DF792A6791B6009E8A48 /* Demo_Path.swift */,
+				C3C2DF7B2A67BD4A009E8A48 /* Demo_ListView.swift */,
+				C3C2DF7F2A68C29A009E8A48 /* Demo_NavigationView.swift */,
+				C3C2DF812A68D9DE009E8A48 /* Demo_ModalView.swift */,
+				C3C2DF832A6A31F9009E8A48 /* Demo_FormView.swift */,
+				C37E10D02A7CABCD00978510 /* Demo_ListView02.swift */,
+				C3BFB5AE2A9C9EFF0033FA23 /* Demo_UIGestures.swift */,
 				C37CD6472A6630A3004FAB4A /* Assets.xcassets */,
 				C37CD6492A6630A3004FAB4A /* Preview Content */,
 			);
@@ -257,8 +299,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3C2DF782A678E82009E8A48 /* Demo_State.swift in Sources */,
+				C37CD6722A668197004FAB4A /* Demo_StackView.swift in Sources */,
+				C3C2DF762A67864B009E8A48 /* Demo_Gradient.swift in Sources */,
+				C3BFB5B12A9C9F760033FA23 /* Demo_Text.swift in Sources */,
+				C3C2DF822A68D9DE009E8A48 /* Demo_ModalView.swift in Sources */,
+				C3C2DF802A68C29A009E8A48 /* Demo_NavigationView.swift in Sources */,
+				C3C2DF7C2A67BD4A009E8A48 /* Demo_ListView.swift in Sources */,
+				C37CD6702A664405004FAB4A /* Demo_ImageView.swift in Sources */,
+				C37E10D12A7CABCD00978510 /* Demo_ListView02.swift in Sources */,
 				C37CD6462A6630A1004FAB4A /* ContentView.swift in Sources */,
 				C37CD6442A6630A1004FAB4A /* SwiftUIDemoApp.swift in Sources */,
+				C3C2DF7A2A6791B6009E8A48 /* Demo_Path.swift in Sources */,
+				C3BFB5AF2A9C9EFF0033FA23 /* Demo_UIGestures.swift in Sources */,
+				C3C2DF842A6A31F9009E8A48 /* Demo_FormView.swift in Sources */,
+				C3C2DF742A66989B009E8A48 /* Demo_Button.swift in Sources */,
+				C3C2DF722A669450009E8A48 /* Demo_ScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
